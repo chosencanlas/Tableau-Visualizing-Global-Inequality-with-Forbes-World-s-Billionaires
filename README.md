@@ -6,5 +6,6 @@ And who are at the top? Billionaires.
 
 In this visualization, I use the Forbes Billionaire list from 2002-2019 to illustrate the inequality between countries by showing the top of the socioeconomic pyramids. The small space between bottom of the pyramids and the x-axis is where everyone else is located.
 
+
 ## Link to Interactive Visualization
 https://public.tableau.com/app/profile/chosen/viz/VisualizingGlobalInequalitywithForbesWorldsBillionaires/WealthInequalityAmongForbesBillionaires
